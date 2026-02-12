@@ -10,7 +10,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: pink;
 }
 
 header, main, footer {
@@ -20,28 +19,14 @@ header, main, footer {
 main {
     flex: 1;
     width: 100%;
-    font-size: xx-large;
-    color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("assets/kisskiss.JPG");
+    /*background-image: url("assets/kisskiss.JPG");
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-}
-
-footer {
-    font-size: xx-small;
-    color: black;
-}
-
-.gifbox {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+    background-repeat: no-repeat;*/
 }
 
 .gif {
