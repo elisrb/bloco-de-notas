@@ -37,8 +37,9 @@ header {
 
 main {
   flex: 0;
-  margin: 0 auto;
-  max-width: 1200px;
+  margin: 0;
+  min-width: 36ch;
+  max-width: 70ch;
   display: flex;
   flex-direction: column;
   align-items: center;
