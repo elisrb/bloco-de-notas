@@ -21,10 +21,10 @@ header, main, footer {
 }
 
 header {
-  width: 80%;
+  width: 100%;
   display: flex;
   align-items: center;
-  justify-content: right;
+  justify-content: center;
   font-family: "Cedarville Cursive", cursive;
   font-style: normal;
   font-weight: 400;
