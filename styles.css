@@ -17,7 +17,7 @@ body {
 }
 
 header, main, footer {
-  padding: 0.5rem;
+  padding: 1rem;
 }
 
 header {
@@ -37,16 +37,14 @@ header {
 
 main {
   flex: 0;
-  margin: 0;
-  min-width: 36ch;
-  max-width: 70ch;
+  width: 95%;
+  max-width: 700px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: top;
   font-size: 1rem;
   background-color: #f5f5dc;
-
   border-top-left-radius: 255px 15px;
   border-top-right-radius: 15px 225px;
   border-bottom-right-radius: 225px 15px;
@@ -56,7 +54,7 @@ main {
 }
 
 footer {
-  width: 80%;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
