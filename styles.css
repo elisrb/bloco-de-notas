@@ -65,3 +65,24 @@ p {
   text-align: justify;
   margin: 5px auto;
 }
+
+h2 {
+  margin: 5px auto;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.button {
+  color: #41403E;
+  text-underline-offset: 2px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  padding: 6px;
+}
+
+.button:hover {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  background-color: #41403e81;
+  color: #f5f5dc;
+  text-decoration: none;
+}
