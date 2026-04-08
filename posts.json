@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "title": "Segundo post",
+    "date": "2026-04-05",
+    "content": "<p>Mais conteúdo interessante...</p>"
+  },
+  {
+    "id": 1,
+    "title": "Meu primeiro post",
+    "date": "2026-04-08",
+    "content": "<p>Esse é o conteúdo completo do post.</p><p>Outro parágrafo aqui.</p>"
+  }
+]
