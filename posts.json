@@ -1,14 +1,74 @@
 [
   {
+    "id": 11,
+    "title": "acelerador",
+    "date": "2024-11-14",
+    "content": "<p>depois de quase dois anos desde a minha primeira aula na autoescola eu imaginava que eu já teria aprendido a acelerar. mas eu peso a mão no volante, como se virar mais fosse compensar alguma falta de velocidade. como se talvez de tanto mudar de direção algum dia eu saia do lugar. e não era pra ser um problema. acho que esse carro não presta. acho que não era pra ser difícil. meu instrutor me disse que era fácil. acho que todo mundo consegue pisar no acelerador, \"acelera, pode acelerar\", acho que eu tô sendo dramática de novo, \"você tem medo de pisar no acelerador?\", acho que eu tô indo na direção errada. algum dia eu saio do lugar.</p>"
+  },
+  {
+    "id": 10,
+    "title": "casa",
+    "date": "2023-05-15",
+    "content": "<p>eu tô começando a parecer quem eu era há vários anos atrás. quem meu eu de 16 anos fez questão de assassinar a sangue frio, coisa de adolescente, você sabe. eu tenho vagas lembranças de demolir minha própria casa e construir outro alicerce do zero, só pra agora me dar conta de que eu pintei as paredes novinhas em folha da mesma cor que elas costumavam ser há seis, sete, onze anos atrás. mas parece que eu substitui a loucura por método. acho que faz parte. acho que se eu de 16 anos me conhecesse eu me estranharia. acho que se eu de 8 anos me conhecesse eu me reconheceria imediatamente. eu gosto de pensar que eu gostaria de mim mesma. eu gosto de pensar que eu me sentiria em casa comigo mesma.</p>"
+  },
+  {
+    "id": 9,
+    "title": "para ana",
+    "date": "2022-11-26",
+    "content": "<p>eu descobri por que eu gosto tanto de música. porque é novembro, e talvez você não lembre mas é verão, e talvez você tenha perdido a conta mas já passou de uma da manhã, e eu estou sozinha, mas eu lembrei da nossa música, e de repente senti de novo o vento gelado que fez em maio, e eu sempre reclamei do frio mais do que você. ou talvez fosse o ar condicionado do avião. ou talvez fosse o ventilador velho do nosso quarto (não, não, essa música era outra. eu também lembro). talvez fosse frio de saudade. sem você é sempre meio frio.</p>"
+  },
+  {
+    "id": 8,
+    "title": "Mãe",
+    "date": "2022-05-08",
+    "content": "<p>Muitas memórias são pontos, momentos únicos dos quais se lembra por serem únicos. Algumas memórias são hábitos. Se espalham, crescem além dos pontos, como todos os churrascos de família que lá no fundo são sempre os mesmos e se confundem uns com os outros, algumas memórias são hábitos. E se juntam e se misturam e se confundem.</p><p>Minha mãe costumava encapar os meus livros da escola todo ano. Eu via a pilha de livros a encapar diminuir com o rolo de Papel Contact sobre a mesa da sala todo ano. Como toda memória que é um hábito, não pareceu algo de que eu me lembraria anos depois, mas é no ordinário que moram os tesouros. E eu me lembro agora. Mas não me lembrava antes, porque os livros estavam lá todos os dias, e eu os carregava todos os dias, e como um hábito, o Papel Contact se camuflou no meu dia a dia, e como tudo que se torna parte da rotina, ficou invisível, mas é no ordinário que moram os tesouros. E eu me lembro agora.</p><p>Eu ainda tenho os livros, ainda encapados. Por cima de todas as lembranças, uma camada cuidadosamente colocada de Papel Contact. Por trás de toda memória, um hábito, e por trás de todo hábito, amor. Mesmo invisível, mesmo escondido pela rotina, amor. Porque mãe é quem cria hábitos. Mãe é quem encapa seus livros.</p>"
+  },
+  {
+    "id": 7,
+    "title": "Filtro",
+    "date": "2022-01-28",
+    "content": "<p>Há algum tempo, eu percebi o que faltava: meus posts do Instagram não seguiam um padrão. Eu achei um filtro que deixava as cores mais opacas, mais quentes e um pouco mais escuras, e resolvi aplicá-lo aos próximas fotos que eu postasse. Parte de mim se sentia tentada a apagar os posts antigos — a harmonia pede vários sacrifícios. Mas não foi para tanto.</p><p>O tempo foi passando. Eu quase não posto fotos, mas fotos não me fariam perceber que não importa o quão brilhantes, frias e claras fossem as cores, o filtro deveria servir. Considerar que talvez eu devesse mudar de filtro? Não, isso nunca.</p><p>Eu me esqueci de aplicar o filtro à última foto que eu postei. Demorou um pouco para perceber que era isso o que me incomodava sobre o feed, mas antes tarde do que nunca. Também demorou um pouco para perceber que elas ficavam melhor sem filtro, mas antes tarde do que nunca.</p>"
+  },
+  {
+    "id": 6,
+    "title": "Céu",
+    "date": "2021-11-11",
+    "content": "<p>Eu já reclamei muito por não conseguir ver o céu da janela do meu quarto. Eu tenho saudades do Céu. Mas esse não é o ponto. O ponto é que um prédio grande e cinza e básico e francamente um pouco monótono ocupa metade da minha vista, e eu não quero mais reclamar disso.</p><p>Eu não quero mais reclamar disso porque lá no fundo, a vida é cheia de prédios cinzas, e eu aprendi a ver o Céu que há dentro deles. A magia dos prédios cinzas reside nas janelas abertas que permitem que eu, da minha janela, veja outras pessoas. Pessoas que eu não conheço, mas que parecem fazer as vezes do céu suficientemente bem.</p><p>É porque eu não via que a beleza do céu se assemelha à beleza das almas — o segredo do belo são os detalhes. Então eu aprendi a ver as estrelas em prédios cinzas, e entendi que cada pessoa em cada janela é um pedaço do Céu.</p>"
+  },
+  {
+    "id": 5,
+    "title": "Arbustos",
+    "date": "2021-10-04",
+    "content": "<p>O engraçado sobre essas fotos é que alguns dias depois, eu voltei a esse mesmo lugar e do lado desse arbusto com as flores tinha um dente-de-leão solitário — que eu teria pegado se conseguisse alcançar ou passar pelos arbustos que servem de cerca viva pra esse gramadinho. Eu tentei calcular algumas rotas possíveis pra pegar o dente-de-leão, mas acabei me resignando e continuei andando.</p><p>O que me deixou pensando foi o fato de que, dando a volta no gramadinho, eu vi que do lado oposto das flores tinha outro dente-de-leão. Também sozinho. Sem mais nenhum dente-de-leão à vista, fora os dois, em lados opostos do arbusto.</p><p>Acabou que eu não tirei foto deles, mas o que se seguiu foram uns cinco minutos em que eu fiquei pensando sobre como o arbusto no meio do caminho (ou a falta de capacidade de locomoção das flores) era a única coisa que impedia que os dois dentes-de-leão não ficassem sozinhos. E sobre como talvez eles seriam um pouco menos tristes se eles tivessem um ao outro. E sobre como às vezes alguém se sente sozinho e tem outro alguém se sentindo sozinho logo ali e vocês poderiam ser a solução um do outro e talvez você não saiba, porque a droga daquele arbusto não sai do lugar. Talvez você queira muito chegar ao outro lado, e talvez o arbusto seja a única coisa que te impede.</p><p>Lembrar que plantas não têm sentimentos me tirou dos meus devaneios. O fato de que no dia seguinte nenhum dos dois dentes-de-leão estava lá me fez pensar de novo.</p><p>E eu gosto de pensar na remota possibilidade de que uma mesma pessoa — sempre há quem consiga superar os arbustos — pegou os dois dentes-de-leão, como eu quis e não pude, e que eles não estão mais sozinhos agora. O arbusto ainda está lá. Talvez hoje apareçam outras flores.</p>"
+  },
+  {
+    "id": 4,
+    "title": "Semântica",
+    "date": "2021-03-12",
+    "content": "<p>“É possível reescrever o seguinte trecho do texto sem alteração semântica:…” Não.</p><p>Semântica (do grego σημαντικός, sēmantiká, plural neutro de sēmantikós, derivado de sema, sinal) é o estudo do significado.</p><p>Para início de conversa, isso é um descaso enorme com o significado. Significado lá é coisa que se estude? Significado foge, muda, corre, se esconde. Daí inventam o estudo do significado. O significado vira bicho de zoológico, preso.</p><p>E como se já não fosse o suficiente, apontam o dedo pra ele, enjaulado, indefeso. “Esse significado é igualzinho àquele outro.” Significado se ofende. Lhe roubaram a identidade. Dessignificaram. Ele mal se lembra de como costumava dançar.</p><p>A criança é o último consolo do significado. Onde o significado não pode dançar, a criança dança. Mas com o tempo, todos acabam virando bicho de zoológico. E ao significado, inconsolável, só resta o sonho.</p><p>Sonha com o dia em que nasceu. Com o olhar cuidadoso de um autor que o escolheu a dedo, o escolheu para dançar. E dançava — nos seus sonhos, dançava. A plateia admirava, aplaudia. Agora, preso, quase morto (de tédio), a plateia só aponta. Aponta, julga, fala, sempre se achando no direito de dar a ele uma identidade.</p><p>Sua identidade sempre foi dançar. O significado vive com saudade do dia em que voltará a dançar. E aí, sim, todos vão voltar a aplaudir. E aí, sim, ele vai nascer outra vez.</p><p>Não é possível reescrever o trecho de nenhum texto sem alteração semântica.</p>"
+  },
+  {
+    "id": 3,
+    "title": "Ângulo",
+    "date": "2021-02-14",
+    "content": "<p>Tirar foto do céu é sempre um desafio. A imensidão de azul e nuvens é infinita demais pra caber em um frame. Mas eu já desisti de tentar — não vale a pena discutir com o céu. A questão agora é o ângulo.</p><p>Eu sabia a foto que eu queria, mas não conseguia achar o jeito certo de tirá-la. Os minutos que eu passei sentada na frente da janela ajeitando a posição do meu celular que o digam. Enquadra, muda, inventa outra coisa, desiste, volta, tira a foto do mesmo jeito. “Vai ter que servir.”</p><p>Tirei a foto. Encostei na parede pra ler.</p><p>Olhei pra cima e me deparei com a imagem exata que eu tinha em mente enquanto tentava tirar a foto.</p><p>É engraçado como a gente passa um tempão tentando arrumar o ângulo perfeito e acaba que o que faltava era deitar e se apoiar na parede. Mas quem sou eu pra discutir com o céu, né?</p>"
+  },
+  {
     "id": 2,
-    "title": "Segundo post",
-    "date": "2026-04-05",
-    "content": "<p>Mais conteúdo interessante...</p>"
+    "title": "Personalidade",
+    "date": "2020-09-14",
+    "content": "<p>Hoje eu ganhei mais um item de decoração pro meu quarto. Coisa pequena, daquelas que você só vai notar que está lá depois de olhar cuidadosamente o quarto todo. Mas, depois de colocá-lo no lugar, pareceu que era justamente o que faltava.</p><p>Acho que tem muitas coisas na vida que são assim. Que ninguém sabia que precisava, mas por acaso se encaixam perfeitamente em um vazio que a gente nem sabia que existia.</p><p>Aquelas coisas que você só percebe que tem dentro de você quando você começa a vasculhar a si mesmo tentando procurar o que te faz único. E são sempre as menores coisas. Ninguém nota que elas estão lá. Mas se não estivessem...</p><p>É justamente a decoração que traz personalidade a um quarto.</p>"
   },
   {
     "id": 1,
-    "title": "Meu primeiro post",
-    "date": "2026-04-08",
-    "content": "<p>Esse é o conteúdo completo do post.</p><p>Outro parágrafo aqui.</p>"
+    "title": "Apaixonada",
+    "date": "2020-06-12",
+    "content": "<p>Uma das únicas coisas que a minha mania de ficar triste do nada não conseguiu estragar foi meu hábito de achar a vida bonita. Ver o céu, sentir o vento batendo no rosto, andar na rua pelo prazer de achar coisas bonitas aqui e ali, sentar sozinha no chão frio do lado da piscina e ver o pôr do sol e achar uma pena que as fotos que eu tiro do céu nunca ficam boas.</p><p>O que conseguiu acabar com isso foi a monotonia. Fazia uns dias que eu sentia que nada acontecia, nada era bom, nada era ruim. Tudo só passava. E eu parei de tentar tirar foto do céu, nenhuma delas ficava boa mesmo.</p><p>Hoje não tinha sido tão diferente. Mas eu não pude deixar de notar que o céu estava mais azul do que o normal. E a partir dali os detalhes começaram a voltar, aos poucos.</p><p>Essa é a graça da vida: se você prestar atenção, as menores coisas são sempre as mais bonitas.</p><p>Só resolvi escrever porque achei irônico que, no dia dos namorados, Deus quis que eu me apaixonasse pela vida de novo. E coloriu o céu de um azul mais azul do que o normal, como quem quer chamar atenção.</p>"
+  },
+  {
+    "id": 0,
+    "title": "Míope",
+    "date": "2020-04-15",
+    "content": "<p>Só quem é míope vai entender a o que é finalmente colocar um óculos com o grau certo: parece que você vê um mundo completamente novo, coisas que você nunca tinha visto antes. E com isso a sensação de estar completamente cego e desnorteado sem óculos.</p><p>Às vezes eu acho que a minha alma é míope. Sem foco, sem vontade, confusa, cega, desnorteada. Precisando de óculos.</p><p>Mas tem gente que é tipo óculos pra alma.</p><p>Um conselho, um abraço, uma conversa no meio da madrugada que acerta tudo. Que te mostra uma perspectiva nova. Coisas que você nunca tinha visto antes. E de repente sua visão não está mais tão embaçada.</p><p>Amigo é tipo óculos pra alma.</p>"
   }
 ]
