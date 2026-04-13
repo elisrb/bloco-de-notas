@@ -108,3 +108,8 @@ h2 {
 .latest-post {
   margin: 5px;
 }
+
+.illustration {
+  height: 200px;
+  margin: 6px auto;
+}
