@@ -64,6 +64,7 @@ footer {
 p {
   text-align: justify;
   margin: 5px auto;
+  padding-top: 6px;
 }
 
 h2 {
@@ -102,4 +103,13 @@ h2 {
 
 .button .post-date {
   margin-left: 1rem;
+}
+
+.latest-post {
+  margin: 5px;
+}
+
+.illustration {
+  height: 200px;
+  margin: 6px auto;
 }
