@@ -1,7 +1,7 @@
 const params = new URLSearchParams(window.location.search);
 const postId = params.get('id');
 
-fetch('bloco-de-notas/posts.json')
+fetch('posts.json')
   .then(res => res.json())
   .then(posts => {
     const post = posts.find(p => p.id == postId);
@@ -11,7 +11,7 @@ fetch('bloco-de-notas/posts.json')
       return;
     }
 
-    document.getElementsByClassName('title')[0].textContent = post.title;
-    document.getElementsByClassName('date')[0].textContent = post.date;
-    document.getElementsByClassName('content')[0].innerHTML = post.content;
+    document.getElementsByClassName('post-title')[0].textContent = post.title;
+    document.getElementsByClassName('post-date')[0].textContent = post.date;
+    document.getElementsByClassName('post-content')[0].innerHTML = post.content;
   });
